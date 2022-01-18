@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416866104690",
+    "project_id": "sank-vpn",
+    "storage_bucket": "sank-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416866104690:android:f082ef226a05bb19ef99eb",
+        "android_client_info": {
+          "package_name": "com.sankvpn.openvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416866104690-0lagugthd458bts81e2s580oobpujluq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpNh5x_1O5oZss5XHS6L9iZv9F6nAwRMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416866104690-0lagugthd458bts81e2s580oobpujluq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
